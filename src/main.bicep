@@ -1,0 +1,3 @@
+resource nsg '' = {
+    name: "myNSG'
+}
